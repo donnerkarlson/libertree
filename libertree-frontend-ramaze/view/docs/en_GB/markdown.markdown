@@ -1,8 +1,37 @@
+You can style text on Libertree with Markdown syntax.
+
+## Italics 
+>_\*italic text\*_ or *\_italic text\_*
+
+## Bold 
+>\*\*__bold text__\*\* or \_\_**bold text**\_\_
+
+## Bold + Italics
+> ___\*\*\*bold and italic text\*\*\*___
+
+## Links
+<div class="example"><pre>
+>[link text here]\(www.example.org)
+</pre></div>
+
+[link text here]\(www.example.org)
+
+## Images
+<div class="example"><pre>
+>![image name]\(www.example.org/image.jpg)
+</pre></div>
+
+![image name](https://oak.elephly.net/themes/oak/images/logo.png)
+
+## Image + Link
+<div class="example"><pre>
+>[ ![image name]\(www.example.org/image.jpg)] \(www.example.org)
+</pre></div>
+
+[![image name](https://oak.elephly.net/themes/oak/images/logo.png)](www.example.org)
+
+
 # Libertree-flavoured markdown
-
-You can style text on Libertree with Markdown syntax.  The following
-sections describe the extended syntax Libertree supports.
-
 
 ## Preformatted blocks
 
