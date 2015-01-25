@@ -2,4 +2,4 @@
 
 
 - [Markdown](markdown)
-- [Libertree Philosophy](libertree-philosophy)
+- [Libertree Philosophy](philosophy)
